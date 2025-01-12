@@ -1,2 +1,2 @@
 # User-management-system
-For data Entry,Delete,Update
+User Management System Using SQL,PHP,HTML,CSS  for data entry,Update,Delete
